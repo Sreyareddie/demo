@@ -1,2 +1,2 @@
-print("testing codebuild automation via webhook")
+print("testing codebuildautomation via webhook")
 print("testing automation now add to pipeline")
