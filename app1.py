@@ -1,1 +1,1 @@
-print("testing codebuild automation1")
+print("testing codebuild automation")
